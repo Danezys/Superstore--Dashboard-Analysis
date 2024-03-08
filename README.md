@@ -61,7 +61,9 @@ The superstore dataset typically includes the following columns:
 ![superstore profit by regions](https://github.com/Danezys/Titanic-Dashboard-Analysis/assets/25526794/e3a886cb-7074-45ee-ab8d-95760d62c666)
 
 
-
-
 ## Summary/Inference
 
+-  From the superstore dataset we could established the total profit by region.
+-  The total count quantity of office supplies in south regions is 609 and 1434 in the East regions this implies that in south region we need to dive deep on how to increase sale in the south regions.
+-  In the East region New York is the state that as the highest count of sale 19500 in 2016.
+-  In 2017 in the east region region New Jersey had the lowest profit.
