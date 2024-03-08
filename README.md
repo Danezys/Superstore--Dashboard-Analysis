@@ -1,7 +1,7 @@
 # Superstore-Dashboard-Analysis
-
+![superimage](https://github.com/Danezys/Titanic-Dashboard-Analysis/assets/25526794/401f0570-ce42-4300-b895-e9bd5d20d485)
 ## Introduction
-The dataset typically includes the following columns:
+The superstore dataset typically includes the following columns:
 
 - ProductID: A unique identifier for each product.
 
