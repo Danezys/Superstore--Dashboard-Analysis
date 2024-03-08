@@ -52,6 +52,17 @@ The superstore dataset typically includes the following columns:
 
 ## Superstore Dashboard.
 
+-Overview 
+![Screenshot 2024-03-07 115136](https://github.com/Danezys/Titanic-Dashboard-Analysis/assets/25526794/42bb43b5-81be-44e4-b894-05035b50df5b)
+
+![page 3](https://github.com/Danezys/Titanic-Dashboard-Analysis/assets/25526794/1a7946da-6091-4a7e-9f30-369d616591db)
+
+![Screenshot 2024-03-07 194312](https://github.com/Danezys/Titanic-Dashboard-Analysis/assets/25526794/ac5aff47-7281-4117-ace4-67d50df2306d)
+
+![superstore profit by regions](https://github.com/Danezys/Titanic-Dashboard-Analysis/assets/25526794/e3a886cb-7074-45ee-ab8d-95760d62c666)
+
+
+
 
 ## Summary/Inference
 
